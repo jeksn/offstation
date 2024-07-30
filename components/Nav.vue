@@ -5,7 +5,7 @@ const colorMode = useColorMode()
     <nav class="fixed top-0 w-full z-50">
         <div class="flex mx-auto justify-between max-w-screen-xl px-4 py-8">
             <div class="flex gap-2">
-                <a href="/" class="font-heading text-xl">offstation.co</a>
+                <a href="/" class="font-body text-xl">offstation.co</a>
             </div>
             <div class="flex gap-3 hidden">
                 <button @click="$colorMode.preference = 'system'" class="hover:opacity-60">

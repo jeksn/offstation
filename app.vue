@@ -2,7 +2,7 @@
   <main class="min-h-screen bg-neutral-900 text-white">
     <Nav />
     <Hero />
-    <div class="max-w-screen-lg mx-auto flex flex-col gap-6 pb-24">
+    <div class="max-w-screen-lg mx-auto flex flex-col gap-6 pt-6 pb-24">
       <p class="font-body text-lg">
         Work in progress!
       </p>

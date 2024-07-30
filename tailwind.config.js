@@ -4,12 +4,13 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        heading: ['Technor', 'sans-serif'],
+        // heading: ['Technor', 'sans-serif'],
+        heading: ['Supreme', 'sans-serif'],
         body: ['Synonym', 'sans-serif']
       }
     },
   },
   plugins: [],
-  darkMode: 'class'
+  // darkMode: 'class'
 }
 
